@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-site/static/css/main.d2a65b88.chunk.css",
+    "main.js": "/my-site/static/js/main.994febfb.chunk.js",
+    "main.js.map": "/my-site/static/js/main.994febfb.chunk.js.map",
+    "runtime-main.js": "/my-site/static/js/runtime-main.1b6100af.js",
+    "runtime-main.js.map": "/my-site/static/js/runtime-main.1b6100af.js.map",
+    "static/js/2.ecb590fd.chunk.js": "/my-site/static/js/2.ecb590fd.chunk.js",
+    "static/js/2.ecb590fd.chunk.js.map": "/my-site/static/js/2.ecb590fd.chunk.js.map",
+    "index.html": "/my-site/index.html",
+    "precache-manifest.78ec4d319033c771ccf36f8b57f0b03c.js": "/my-site/precache-manifest.78ec4d319033c771ccf36f8b57f0b03c.js",
+    "service-worker.js": "/my-site/service-worker.js",
+    "static/css/main.d2a65b88.chunk.css.map": "/my-site/static/css/main.d2a65b88.chunk.css.map",
+    "static/js/2.ecb590fd.chunk.js.LICENSE.txt": "/my-site/static/js/2.ecb590fd.chunk.js.LICENSE.txt",
+    "static/media/book.jpg": "/my-site/static/media/book.b1b630e1.jpg",
+    "static/media/calc.jpg": "/my-site/static/media/calc.f0104f5e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b6100af.js",
+    "static/js/2.ecb590fd.chunk.js",
+    "static/css/main.d2a65b88.chunk.css",
+    "static/js/main.994febfb.chunk.js"
+  ]
+}
